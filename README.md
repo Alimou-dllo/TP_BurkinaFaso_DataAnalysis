@@ -1,6 +1,6 @@
 # 🌍 Analyse de Données Humanitaires — Burkina Faso
 
-> **Projet de Data Analysis | Portfolio | DIALLO Alimou — Data Analyst Jr**
+> **Projet de Data Analysis | DIALLO Alimou — Data Analyst **
 
 ---
 
@@ -74,44 +74,15 @@ TP_BurkinaFaso_DataAnalysis/
 | `Seaborn` | Visualisations statistiques avancées |
 | `Jupyter Notebook` | Environnement de développement |
 
----
-
-## 🚀 Comment reproduire l'analyse
-
-```bash
-# 1. Cloner le dépôt
-git clone https://github.com/TON_USERNAME/TP_BurkinaFaso_DataAnalysis.git
-
-# 2. Installer les dépendances
-pip install -r requirements.txt
-
-# 3. Lancer Jupyter
-jupyter notebook
-```
-
----
-
-## 📦 Dépendances
-
-```
-pandas>=1.5.0
-numpy>=1.23.0
-matplotlib>=3.6.0
-seaborn>=0.12.0
-jupyter>=1.0.0
-openpyxl>=3.0.0
-```
-
----
 
 ## 👤 Auteur
 
 **DIALLO Alimou**
-Data Analyst Jr
+Data Analyst 
 
-📧 *[Ton email]*
-🔗 *[Ton LinkedIn]*
-🐙 *[Ton GitHub]*
+📧 *[Diallomohamedalim@gmail.com]*
+🔗 *[https://www.linkedin.com/in/mamadou-alimou-diallo-378b2b311/]*
+🐙 *[Alimou-dllo]*
 
 ---
 
