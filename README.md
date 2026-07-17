@@ -1,10 +1,10 @@
-# 🌍 Analyse de Données Humanitaires — Burkina Faso
+#  Analyse de Données Humanitaires — Burkina Faso
 
 > **Projet de Data Analysis | DIALLO Alimou — Data Analyst **
 
 ---
 
-## 📋 Présentation du projet
+##  Présentation du projet
 
 Ce projet regroupe une série de travaux pratiques d'analyse de données
 basés sur des datasets réels concernant le Burkina Faso.
@@ -18,18 +18,18 @@ comprendre la situation humanitaire au Burkina Faso.
 
 ---
 
-## 📊 Travaux Pratiques
+##  Travaux Pratiques
 
 | # | Thématique | Source | Status | Rapport |
 |---|-----------|--------|--------|---------|
-| TP-01 | Prix Alimentaires (WFP) | HDX | ✅ Terminé | [Voir rapport](TP01_Prix_Alimentaires/rapport_TP01.md) |
-| TP-02 | Déplacements Forcés (IDMC) | IDMC | 🚧 En cours | - |
-| TP-03 | Financement Humanitaire (FTS) | OCHA | 🚧 En cours | - |
-| TP-04 | Analyse Comparative | Multi-sources | 🚧 En cours | - |
+| TP-01 | Prix Alimentaires (WFP) | HDX |  Terminé | [Voir rapport](TP01_Prix_Alimentaires/rapport_TP01.md) |
+| TP-02 | Déplacements Forcés (IDMC) | IDMC |  En cours | - |
+| TP-03 | Financement Humanitaire (FTS) | OCHA |  En cours | - |
+| TP-04 | Analyse Comparative | Multi-sources |  En cours | - |
 
 ---
 
-## 🗂️ Structure du projet
+##  Structure du projet
 
 ```
 TP_BurkinaFaso_DataAnalysis/
@@ -63,7 +63,7 @@ TP_BurkinaFaso_DataAnalysis/
 
 ---
 
-## 🛠️ Technologies utilisées
+##  Technologies utilisées
 
 | Outil | Usage |
 |-------|-------|
@@ -75,7 +75,7 @@ TP_BurkinaFaso_DataAnalysis/
 | `Jupyter Notebook` | Environnement de développement |
 
 
-## 👤 Auteur
+##  Auteur
 
 **DIALLO Alimou**
 Data Analyst 
