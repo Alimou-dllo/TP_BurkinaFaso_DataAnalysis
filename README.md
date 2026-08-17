@@ -82,7 +82,6 @@ Data Analyst
 
 📧 *[Diallomohamedalim@gmail.com]*
 🔗 *[https://www.linkedin.com/in/mamadou-alimou-diallo-378b2b311/]*
-🐙 *[Alimou-dllo]*
 
 ---
 
