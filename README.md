@@ -84,6 +84,3 @@ Data Analyst
 🔗 *[https://www.linkedin.com/in/mamadou-alimou-diallo-378b2b311/]*
 
 ---
-
-*Projet réalisé dans le cadre d'une formation Python pour l'analyse de données*
-*Réseau d'Entraide des Étudiants en Statistique (REESO) — Burkina Faso*
